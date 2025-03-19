@@ -125,7 +125,7 @@ This project is licensed under the **MIT License** – feel free to use and modi
 
 ## 📩 **Contact & Follow Us**  
 For inquiries, reach out via:  
-📧 Email: your_email@example.com  
+📧 Email: mariamkhayr8@gmail.com  
 🌐 Website: [yourprojectwebsite.com](https://yourprojectwebsite.com)  
 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)  
 
