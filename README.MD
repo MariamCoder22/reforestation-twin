@@ -127,6 +127,6 @@ This project is licensed under the **MIT License** – feel free to use and modi
 For inquiries, reach out via:  
 📧 Email: mariamkhayr8@gmail.com  
 🌐 Website: [yourprojectwebsite.com](https://yourprojectwebsite.com)  
-🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)  
+🐦 X: [@yourhandle](https://twitter.com/yourhandle)  
 
 Let's **reforest the planet with AI!** 🌱
